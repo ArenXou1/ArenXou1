@@ -1,6 +1,6 @@
 Hi! Im Aren,
 
-6 Months Experience with Gamedev🎮 using Unity Engine
+1 Year Experience with Gamedev🎮 using Unity Engine & Blender
 
 Experience in:
 - Game Design
